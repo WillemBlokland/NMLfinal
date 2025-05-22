@@ -27,13 +27,14 @@ def load_data():
 
     try:
         stories = pd.read_json(os.path.join(data_dir, 'short_stories.json'))
-        worldview_keywords = pd.read_json(os.path.join(data_dir, 'stories_worldview_keywords.json'))
-        keywords = pd.read_json(os.path.join(data_dir, 'stories_keywords.json'))
+        worldview_keywords = pd.read_json(os.path.join(data_dir, 'keywords_worldview.json'))  # corrected name
+        keywords = pd.read_json(os.path.join(data_dir, 'keywords.json'))  # corrected name
     except FileNotFoundError as e:
         print(f"[ERROR] Missing required data file: {e}")
         raise
 
     return stories, worldview_keywords, keywords
+
 
 
 stories, stories_worldview_keywords, stories_keywords = load_data()
