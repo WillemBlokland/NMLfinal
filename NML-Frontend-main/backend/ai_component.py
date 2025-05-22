@@ -93,6 +93,11 @@ def interact():
         return jsonify({"matches": matches})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    
+
+@app.route("/random-number")
+def random_number():
+    return jsonify({"random_number": random.randint(1, 100)})
 
 # Gunicorn entrypoint
 if __name__ == "__main__":
