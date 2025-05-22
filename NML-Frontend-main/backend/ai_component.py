@@ -5,8 +5,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 
-env_path = Path('NML Data and AI') / '.env'
-load_dotenv(dotenv_path=env_path)
+load_dotenv()
 
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
