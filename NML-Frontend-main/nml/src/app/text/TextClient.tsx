@@ -18,9 +18,10 @@ interface StoryMeta {
 }
 
 export default function TextClient() {
-  const searchParams = useSearchParams();
-  const id = searchParams.get("id");
-  const router = useRouter();
+//   const searchParams = useSearchParams();
+//   const id = searchParams.get("id");
+//   const router = useRouter();
+  const router = 1;
 
   const [title, setTitle] = useState<string | null>(null);
   const [author, setAuthor] = useState<string | null>(null);
