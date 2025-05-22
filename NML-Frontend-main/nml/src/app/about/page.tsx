@@ -7,21 +7,21 @@ export default function AboutPage() {
   const [error, setError] = useState<string | null>(null);
 
   const fetchRandomNumber = async () => {
-    try {
-      setError(null);     // Clear previous errors
-      setNumber(null);    // Clear previous number
-      const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/random-number`, {
+  try {
+    setError(null);     // Clear previous errors
+    setNumber(null);    // Clear previous number
 
-      if (!response.ok) throw new Error('Server responded with an error');
+    const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/random-number`);
+    if (!response.ok) throw new Error('Server responded with an error');
 
+    const data = await response.json();
+    setNumber(data.random_number);
+  } catch (err) {
+    console.error(err);
+    setError('Failed to fetch random number');
+  }
+};
 
-      const data = await response.json();
-      setNumber(data.random_number);
-    } catch (err) {
-      console.error(err);
-      setError('Failed to fetch random number');
-    }
-  };
 
   return (
     <div>
