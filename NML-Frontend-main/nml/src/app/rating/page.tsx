@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import RatingClient from "./RatingClient.tsx";
+import RatingClient from "./RatingClient";
 
 export const dynamic = "force-dynamic";
 
