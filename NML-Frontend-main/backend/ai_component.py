@@ -11,12 +11,33 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 MODEL = os.getenv("MODEL")
 CLIENT = openai.OpenAI()
 
-# Load your data once at startup
-stories, worldview_keywords, keywords = (
-    pd.read_json("data/short_stories.json"),
-    pd.read_json("data/stories_worldview_keywords.json"),
-    pd.read_json("data/stories_keywords.json")
-)
+# # Load your data once at startup
+# DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
+
+# stories = pd.read_json(os.path.join(DATA_DIR, 'short_stories.json'))
+# worldview_keywords = pd.read_json(os.path.join(DATA_DIR, 'stories_worldview_keywords.json'))
+# keywords = pd.read_json(os.path.join(DATA_DIR, 'stories_keywords.json'))
+
+import os
+
+def load_data():
+    """Loads story data from JSON files in the local data/ directory."""
+    base_dir = os.path.dirname(__file__)
+    data_dir = os.path.join(base_dir, "data")
+
+    try:
+        stories = pd.read_json(os.path.join(data_dir, 'short_stories.json'))
+        worldview_keywords = pd.read_json(os.path.join(data_dir, 'stories_worldview_keywords.json'))
+        keywords = pd.read_json(os.path.join(data_dir, 'stories_keywords.json'))
+    except FileNotFoundError as e:
+        print(f"[ERROR] Missing required data file: {e}")
+        raise
+
+    return stories, worldview_keywords, keywords
+
+
+stories, stories_worldview_keywords, stories_keywords = load_data()
+
 
 WORLDVIEW_KEYWORDS = [
     "Libertarianism", "Traditionalism", "Nationalism", "Feminism",
