@@ -9,7 +9,7 @@ from flask import Flask
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app, origins=["https://nm-lfinal-beta.vercel.app"])
+CORS(app, origins=["https://nm-lfinal-beta.vercel.app"], supports_credentials=True)
 
 
 app = Flask(__name__)
