@@ -64,7 +64,8 @@ export default function LoginPage() {
 
       // Check if the user exists in the MongoDB database
       try {
-        const response = await fetch("https://nmlfinal-backend.onrender.com/users/check", {
+        const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/users/check`, {
+
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ username: matchedUser.username }),
