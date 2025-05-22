@@ -4,16 +4,11 @@ import openai
 import pandas as pd
 from dotenv import load_dotenv
 import random
-
-
-from flask import Flask
 from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app, origins=["https://nm-lfinal-beta.vercel.app"], supports_credentials=True)
 
-
-app = Flask(__name__)
 load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
