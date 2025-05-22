@@ -12,9 +12,10 @@ export default function AboutPage() {
       setNumber(null);    // Clear previous number
       const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/random-number`, {
 
-      if (!res.ok) throw new Error('Server responded with an error');
+      if (!response.ok) throw new Error('Server responded with an error');
 
-      const data = await res.json();
+
+      const data = await response.json();
       setNumber(data.random_number);
     } catch (err) {
       console.error(err);
