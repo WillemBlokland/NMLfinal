@@ -58,7 +58,7 @@ export default function WorldviewPage() {
 
     async function fetchUserData() {
       try {
-        const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/user-data`, {
+        const res = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/user-data`, {
 
           method: "POST",
           headers: { "Content-Type": "application/json" },

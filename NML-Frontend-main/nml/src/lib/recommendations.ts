@@ -71,7 +71,7 @@ export async function getRecommendedStories(
   };
 
   try {
-    const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/recommend`, {
+    const res = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/recommend`, {
 
       method: "POST",
       headers: {

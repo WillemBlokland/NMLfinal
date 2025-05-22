@@ -71,7 +71,7 @@ export default function PostStudyQuestionnairePage() {
     if (!isComplete || !username) return;
 
     try {
-      const response = await fetch("http://127.0.0.1:5000/poststudy_questionnaire", {
+      const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/poststudy_questionnaire`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
