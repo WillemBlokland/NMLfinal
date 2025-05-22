@@ -58,7 +58,8 @@ export default function WorldviewPage() {
 
     async function fetchUserData() {
       try {
-        const res = await fetch("http://127.0.0.1:5000/user-data", {
+        const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/user-data`, {
+
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ name: storedUser }),
@@ -92,7 +93,8 @@ export default function WorldviewPage() {
     if (!isComplete || !username) return;
 
     try {
-      const response = await fetch("http://127.0.0.1:5000/questionnaire", {
+      const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/questionnaire`, {
+
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

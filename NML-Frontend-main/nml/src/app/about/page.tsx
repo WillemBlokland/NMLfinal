@@ -10,7 +10,7 @@ export default function AboutPage() {
     try {
       setError(null);     // Clear previous errors
       setNumber(null);    // Clear previous number
-      const res = await fetch('http://127.0.0.1:5000/random-number'); // Adjust path if needed
+      const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/random-number`, {
 
       if (!res.ok) throw new Error('Server responded with an error');
 

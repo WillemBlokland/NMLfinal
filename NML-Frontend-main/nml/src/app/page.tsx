@@ -25,7 +25,7 @@ export default function HomePage() {
     async function checkAdminPoststudy() {
       try {
         // Call backend to check if admin completed poststudy_questionnaire
-        const res = await fetch("http://127.0.0.1:5000/poststudy_questionnaire/check", {
+        const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/poststudy_questionnaire/check`, {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ name: "admin" }),

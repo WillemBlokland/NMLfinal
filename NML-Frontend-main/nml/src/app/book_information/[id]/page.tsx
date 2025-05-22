@@ -36,7 +36,7 @@ export default function BookInformation() {
   const logInteraction = async (action: string, storyId: number) => {
     if (!username) return;
     try {
-      await fetch("http://localhost:5000/interact", {
+      await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/interact`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

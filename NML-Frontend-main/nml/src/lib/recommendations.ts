@@ -29,7 +29,7 @@ function parseLengthRange(lengthRange?: string): { min_length: number; max_lengt
 
 async function fetchRatedStoryIds(username: string): Promise<number[]> {
   try {
-    const res = await fetch("http://127.0.0.1:5000/interact", {
+    const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/interact`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ name: username, action: "get_interactions" }),
@@ -71,7 +71,8 @@ export async function getRecommendedStories(
   };
 
   try {
-    const res = await fetch("http://localhost:5000/recommend", {
+    const response = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/recommend`, {
+
       method: "POST",
       headers: {
         "Content-Type": "application/json",
