@@ -1,0 +1,6754 @@
+[
+  {
+    "Id":0,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":1,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":2,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":3,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":4,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":5,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":6,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":7,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":8,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":9,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":10,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":11,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":12,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":13,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":14,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":15,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Nationalism"
+    ]
+  },
+  {
+    "Id":16,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":17,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":18,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":19,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":20,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":21,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":22,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":23,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":24,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":25,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":26,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":27,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":28,
+    "Keywords":[
+      "Justice and Accountability",
+      "Feminism",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":29,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":30,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":31,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":32,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":33,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":34,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":35,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":36,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":37,
+    "Keywords":[
+      "Traditionalism",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":38,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":39,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":40,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":41,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":42,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":43,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":44,
+    "Keywords":[
+      "Anti-Establishment",
+      "Nationalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":45,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":46,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":47,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":48,
+    "Keywords":[
+      "Inclusivity",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":49,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":50,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":51,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":52,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":53,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":54,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":55,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":56,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":57,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":58,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":59,
+    "Keywords":[
+      "Traditionalism",
+      "Nationalism",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":60,
+    "Keywords":[
+      "Anti-Establishment",
+      "Inclusivity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":61,
+    "Keywords":[
+      "Nationalism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":62,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":63,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":64,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":65,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":66,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":67,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":68,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":69,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":70,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":71,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":72,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":73,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":74,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":75,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":76,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":77,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":78,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":79,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":80,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":81,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":82,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":83,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":84,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":85,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":86,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":87,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":88,
+    "Keywords":[
+      "Survival and Resilience",
+      "Traditionalism",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":89,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":90,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":91,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":92,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":93,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":94,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":95,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":96,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":97,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":98,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":99,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":100,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":101,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":102,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":103,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":104,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":105,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":106,
+    "Keywords":[
+      "Traditionalism",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":107,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":108,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":109,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":110,
+    "Keywords":[
+      "Traditionalism",
+      "Feminism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":111,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":112,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":113,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":114,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":115,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":116,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":117,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":118,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Nationalism"
+    ]
+  },
+  {
+    "Id":119,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":120,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":121,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":122,
+    "Keywords":[
+      "Nationalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":123,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":124,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":125,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":126,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":127,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":128,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":129,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Nationalism"
+    ]
+  },
+  {
+    "Id":130,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":131,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":132,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":133,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":134,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":135,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":136,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":137,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":138,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":139,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":140,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":141,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":142,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":143,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":144,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":145,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":146,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":147,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":148,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":149,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":150,
+    "Keywords":[
+      "Traditionalism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":151,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":152,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":153,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":154,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":155,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":156,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":157,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":158,
+    "Keywords":[
+      "Anti-Establishment",
+      "Feminism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":159,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":160,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":161,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":162,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":163,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":164,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":165,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":166,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":167,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":168,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":169,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":170,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":171,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":172,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":173,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":174,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":175,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":176,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":177,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":178,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":179,
+    "Keywords":[
+      "Anti-Establishment",
+      "Nationalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":180,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":181,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":182,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":183,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":184,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":185,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":186,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":187,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":188,
+    "Keywords":[
+      "Nationalism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":189,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":190,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":191,
+    "Keywords":[
+      "Traditionalism",
+      "Feminism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":192,
+    "Keywords":[
+      "Community Solidarity",
+      "Traditionalism",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":193,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":194,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":195,
+    "Keywords":[
+      "Traditionalism",
+      "Nationalism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":196,
+    "Keywords":[
+      "Feminism",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":197,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":198,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":199,
+    "Keywords":[
+      "Traditionalism",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":200,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":201,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":202,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":203,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":204,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":205,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":206,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":207,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":208,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":209,
+    "Keywords":[
+      "Feminism",
+      "Justice and Accountability",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":210,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":211,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":212,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":213,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":214,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":215,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":216,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":217,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":218,
+    "Keywords":[
+      "Justice and Accountability",
+      "Traditionalism",
+      "Feminism"
+    ]
+  },
+  {
+    "Id":219,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":220,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":221,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":222,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":223,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":224,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":225,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":226,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":227,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":228,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":229,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":230,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":231,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":232,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":233,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":234,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":235,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":236,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":237,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":238,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":239,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":240,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":241,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":242,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":243,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":244,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":245,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":246,
+    "Keywords":[
+      "Survival and Resilience",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":247,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":248,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":249,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":250,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":251,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":252,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":253,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":254,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":255,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":256,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":257,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":258,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":259,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":260,
+    "Keywords":[
+      "Traditionalism",
+      "Feminism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":261,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":262,
+    "Keywords":[
+      "Community Solidarity",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":263,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":264,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":265,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":266,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":267,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":268,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":269,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":270,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":271,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":272,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":273,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":274,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":275,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":276,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":277,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":278,
+    "Keywords":[
+      "Feminism",
+      "Traditionalism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":279,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":280,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":281,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":282,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":283,
+    "Keywords":[
+      "Justice and Accountability",
+      "Inclusivity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":284,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":285,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":286,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":287,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":288,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Libertarianism"
+    ]
+  },
+  {
+    "Id":289,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":290,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":291,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":292,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":293,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":294,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":295,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":296,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":297,
+    "Keywords":[
+      "Nationalism",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":298,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":299,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":300,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":301,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":302,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":303,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Feminism"
+    ]
+  },
+  {
+    "Id":304,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":305,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":306,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":307,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":308,
+    "Keywords":[
+      "Community Solidarity",
+      "Inclusivity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":309,
+    "Keywords":[
+      "Feminism",
+      "Traditionalism",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":310,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":311,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":312,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":313,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":314,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":315,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":316,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":317,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":318,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":319,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":320,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":321,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":322,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":323,
+    "Keywords":[
+      "Community Solidarity",
+      "Inclusivity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":324,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":325,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":326,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":327,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":328,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":329,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":330,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":331,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":332,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":333,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":334,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":335,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":336,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":337,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":338,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":339,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":340,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":341,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":342,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":343,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":344,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":345,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":346,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":347,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":348,
+    "Keywords":[
+      "Traditionalism",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":349,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":350,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":351,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":352,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":353,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":354,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":355,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":356,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":357,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":358,
+    "Keywords":[
+      "Nationalism",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":359,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":360,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":361,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":362,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":363,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":364,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":365,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":366,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":367,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":368,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":369,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":370,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":371,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":372,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":373,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":374,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":375,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":376,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":377,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":378,
+    "Keywords":[
+      "Community Solidarity",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":379,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":380,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":381,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":382,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":383,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":384,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":385,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":386,
+    "Keywords":[
+      "Nationalism",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":387,
+    "Keywords":[
+      "Nationalism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":388,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":389,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":390,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":391,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":392,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":393,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":394,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":395,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":396,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":397,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":398,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":399,
+    "Keywords":[
+      "Community Solidarity",
+      "Survival and Resilience",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":400,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":401,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":402,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":403,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":404,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":405,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":406,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":407,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":408,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":409,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Nationalism"
+    ]
+  },
+  {
+    "Id":410,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":411,
+    "Keywords":[
+      "Nationalism",
+      "Traditionalism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":412,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":413,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":414,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":415,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":416,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":417,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":418,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":419,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":420,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":421,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":422,
+    "Keywords":[
+      "Community Solidarity",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":423,
+    "Keywords":[
+      "Feminism",
+      "Community Solidarity",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":424,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":425,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":426,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":427,
+    "Keywords":[
+      "Feminism",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":428,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":429,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":430,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":431,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":432,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":433,
+    "Keywords":[
+      "Community Solidarity",
+      "Inclusivity",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":434,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":435,
+    "Keywords":[
+      "Community Solidarity",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":436,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":437,
+    "Keywords":[
+      "Nationalism",
+      "Community Solidarity",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":438,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":439,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":440,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":441,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":442,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":443,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":444,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":445,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":446,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":447,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":448,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":449,
+    "Keywords":[
+      "Survival and Resilience",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":450,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":451,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":452,
+    "Keywords":[
+      "Anti-Establishment",
+      "Inclusivity",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":453,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":454,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":455,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":456,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":457,
+    "Keywords":[
+      "Traditionalism",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":458,
+    "Keywords":[
+      "Traditionalism",
+      "Feminism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":459,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":460,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":461,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":462,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":463,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":464,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":465,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":466,
+    "Keywords":[
+      "Survival and Resilience",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":467,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":468,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":469,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":470,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":471,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":472,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":473,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":474,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":475,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":476,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":477,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":478,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":479,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":480,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":481,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":482,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":483,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":484,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":485,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":486,
+    "Keywords":[
+      "Anti-Establishment",
+      "Feminism",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":487,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":488,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":489,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":490,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":491,
+    "Keywords":[
+      "Justice and Accountability",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":492,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":493,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":494,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":495,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":496,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":497,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":498,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":499,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":500,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":501,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":502,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":503,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":504,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":505,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":506,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":507,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":508,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":509,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":510,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":511,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":512,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":513,
+    "Keywords":[
+      "Traditionalism",
+      "Feminism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":514,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":515,
+    "Keywords":[
+      "Community Solidarity",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":516,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":517,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":518,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":519,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":520,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":521,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":522,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":523,
+    "Keywords":[
+      "Anti-Establishment",
+      "Inclusivity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":524,
+    "Keywords":[
+      "Anti-Establishment",
+      "Feminism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":525,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":526,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":527,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":528,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":529,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":530,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":531,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":532,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":533,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":534,
+    "Keywords":[
+      "Justice and Accountability",
+      "Feminism",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":535,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":536,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":537,
+    "Keywords":[
+      "Nationalism",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":538,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":539,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":540,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":541,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":542,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":543,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":544,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":545,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":546,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":547,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":548,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":549,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":550,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":551,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":552,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":553,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":554,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":555,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":556,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":557,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":558,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":559,
+    "Keywords":[
+      "Traditionalism",
+      "Nationalism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":560,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":561,
+    "Keywords":[
+      "Community Solidarity",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":562,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":563,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":564,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":565,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":566,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":567,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":568,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":569,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":570,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":571,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":572,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":573,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":574,
+    "Keywords":[
+      "Traditionalism",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":575,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":576,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":577,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":578,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":579,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":580,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":581,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":582,
+    "Keywords":[
+      "Traditionalism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":583,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":584,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":585,
+    "Keywords":[
+      "Anti-Establishment",
+      "Libertarianism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":586,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":587,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":588,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":589,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":590,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":591,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":592,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":593,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":594,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":595,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":596,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":597,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":598,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":599,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":600,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":601,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":602,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":603,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":604,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":605,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":606,
+    "Keywords":[
+      "Traditionalism",
+      "Inclusivity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":607,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":608,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":609,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":610,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":611,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":612,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":613,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":614,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":615,
+    "Keywords":[
+      "Inclusivity",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":616,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":617,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":618,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":619,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":620,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":621,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":622,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":623,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":624,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":625,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":626,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":627,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":628,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":629,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":630,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":631,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":632,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":633,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":634,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":635,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":636,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":637,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":638,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Nationalism"
+    ]
+  },
+  {
+    "Id":639,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":640,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":641,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":642,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":643,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":644,
+    "Keywords":[
+      "Survival and Resilience",
+      "Community Solidarity",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":645,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":646,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":647,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":648,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":649,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":650,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":651,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":652,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":653,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":654,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":655,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":656,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":657,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Libertarianism"
+    ]
+  },
+  {
+    "Id":658,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":659,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":660,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":661,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":662,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":663,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":664,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":665,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":666,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":667,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":668,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":669,
+    "Keywords":[
+      "Traditionalism",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":670,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":671,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":672,
+    "Keywords":[
+      "Traditionalism",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":673,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":674,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":675,
+    "Keywords":[
+      "Anti-Establishment",
+      "Libertarianism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":676,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":677,
+    "Keywords":[
+      "Traditionalism",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":678,
+    "Keywords":[
+      "Traditionalism",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":679,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":680,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":681,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":682,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":683,
+    "Keywords":[
+      "Traditionalism",
+      "Nationalism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":684,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":685,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":686,
+    "Keywords":[
+      "Nationalism",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":687,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":688,
+    "Keywords":[
+      "Traditionalism",
+      "Feminism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":689,
+    "Keywords":[
+      "Traditionalism",
+      "Nationalism",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":690,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":691,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":692,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":693,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":694,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":695,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":696,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":697,
+    "Keywords":[
+      "Community Solidarity",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":698,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":699,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":700,
+    "Keywords":[
+      "Traditionalism",
+      "Nationalism",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":701,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":702,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":703,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":704,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":705,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":706,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":707,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":708,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":709,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":710,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":711,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":712,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":713,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":714,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":715,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":716,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":717,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":718,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":719,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":720,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":721,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":722,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":723,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":724,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Feminism"
+    ]
+  },
+  {
+    "Id":725,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":726,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":727,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Traditionalism",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":728,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":729,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":730,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":731,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":732,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":733,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":734,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":735,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":736,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":737,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":738,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":739,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":740,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":741,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":742,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":743,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":744,
+    "Keywords":[
+      "Nationalism",
+      "Underdog Empowerment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":745,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":746,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":747,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":748,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":749,
+    "Keywords":[
+      "Justice and Accountability",
+      "Community Solidarity",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":750,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":751,
+    "Keywords":[
+      "Feminism",
+      "Traditionalism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":752,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":753,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":754,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":755,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":756,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":757,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":758,
+    "Keywords":[
+      "Anti-Establishment",
+      "Inclusivity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":759,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":760,
+    "Keywords":[
+      "Traditionalism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":761,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":762,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":763,
+    "Keywords":[
+      "Nationalism",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":764,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":765,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":766,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":767,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":768,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":769,
+    "Keywords":[
+      "Community Solidarity",
+      "Nationalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":770,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":771,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":772,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":773,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":774,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":775,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":776,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":777,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":778,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":779,
+    "Keywords":[
+      "Justice and Accountability",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":780,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":781,
+    "Keywords":[
+      "Nationalism",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":782,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":783,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Inclusivity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":784,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":785,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":786,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":787,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":788,
+    "Keywords":[
+      "Survival and Resilience",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":789,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":790,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":791,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":792,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":793,
+    "Keywords":[
+      "Nationalism",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":794,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":795,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":796,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":797,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":798,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":799,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":800,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":801,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":802,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":803,
+    "Keywords":[
+      "Traditionalism",
+      "Justice and Accountability",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":804,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":805,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":806,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":807,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":808,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":809,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":810,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Survival and Resilience",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":811,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":812,
+    "Keywords":[
+      "Traditionalism",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":813,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":814,
+    "Keywords":[
+      "Community Solidarity",
+      "Survival and Resilience",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":815,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Community Solidarity"
+    ]
+  },
+  {
+    "Id":816,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":817,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Traditionalism"
+    ]
+  },
+  {
+    "Id":818,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":819,
+    "Keywords":[
+      "Survival and Resilience",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":820,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":821,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":822,
+    "Keywords":[
+      "Traditionalism",
+      "Anti-Establishment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":823,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":824,
+    "Keywords":[
+      "Underdog Empowerment",
+      "Justice and Accountability",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":825,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":826,
+    "Keywords":[
+      "Feminism",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":827,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":828,
+    "Keywords":[
+      "Community Solidarity",
+      "Survival and Resilience",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":829,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":830,
+    "Keywords":[
+      "Anti-Establishment",
+      "Community Solidarity",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":831,
+    "Keywords":[
+      "Community Solidarity",
+      "Underdog Empowerment",
+      "Anti-Establishment"
+    ]
+  },
+  {
+    "Id":832,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Libertarianism"
+    ]
+  },
+  {
+    "Id":833,
+    "Keywords":[
+      "Anti-Establishment",
+      "Feminism",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":834,
+    "Keywords":[
+      "Anti-Establishment",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":835,
+    "Keywords":[
+      "Community Solidarity",
+      "Justice and Accountability",
+      "Survival and Resilience"
+    ]
+  },
+  {
+    "Id":836,
+    "Keywords":[
+      "Survival and Resilience",
+      "Anti-Establishment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":837,
+    "Keywords":[
+      "Anti-Establishment",
+      "Underdog Empowerment",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":838,
+    "Keywords":[
+      "Justice and Accountability",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":839,
+    "Keywords":[
+      "Anti-Establishment",
+      "Survival and Resilience",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":840,
+    "Keywords":[
+      "Justice and Accountability",
+      "Underdog Empowerment",
+      "Inclusivity"
+    ]
+  },
+  {
+    "Id":841,
+    "Keywords":[
+      "Feminism",
+      "Anti-Establishment",
+      "Underdog Empowerment"
+    ]
+  },
+  {
+    "Id":842,
+    "Keywords":[
+      "Anti-Establishment",
+      "Traditionalism",
+      "Justice and Accountability"
+    ]
+  },
+  {
+    "Id":843,
+    "Keywords":[
+      "Anti-Establishment",
+      "Inclusivity",
+      "Survival and Resilience"
+    ]
+  }
+]
