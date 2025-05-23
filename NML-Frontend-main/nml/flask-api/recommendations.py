@@ -3,6 +3,13 @@ import openai
 import pandas as pd
 from pathlib import Path
 
+from flask import Flask
+from flask_cors import CORS
+
+app = Flask(__name__)
+CORS(app, origins=["https://nm-lfinal-beta.vercel.app"], supports_credentials=True)
+
+
 # openai_api_key = "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"
 # MODEL = "gpt-4o-mini-2024-07-18"
 from dotenv import load_dotenv

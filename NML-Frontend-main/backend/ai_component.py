@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import random
 from flask_cors import CORS
 
+
 app = Flask(__name__)
 CORS(app, origins=["https://nm-lfinal-beta.vercel.app"], supports_credentials=True)
 

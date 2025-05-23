@@ -8,8 +8,10 @@ import recommendations as rec
 
 
 # === App Setup ===
+
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["https://nm-lfinal-beta.vercel.app"], supports_credentials=True)
+
 
 # === MongoDB Setup ===
 client = MongoClient("mongodb+srv://nml:lLrQKKQaaL0dqgbz@cluster0.iwe1sjc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
