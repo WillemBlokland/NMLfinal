@@ -4,3 +4,6 @@ openai
 pandas
 python-dotenv
 flask-cors
+pymongo
+python-dotenv
+flask-cors
